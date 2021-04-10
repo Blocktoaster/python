@@ -1,5 +1,5 @@
 from pygame import*
-print("сава лох, я знаю")
+print("сава лох, я знаю, молодец!")
 okno = display.set_mode((500,500))
 game = True
 
